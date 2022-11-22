@@ -94,10 +94,11 @@ h3{
     margin: 20px;
     text-indent: 20%;
     float: left;
-    clear: right;
+    width: 20%;
 }
 
 
 .box1{
-    float: left;
+    text-align: center;
+    width: 100%;
 }
